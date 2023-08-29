@@ -1,0 +1,15 @@
+body {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  color:white;
+}
+#header_nav{
+  min-width: 100%;
+  display: flex;
+  align-items: left;
+  justify-content: end;
+}
+
+main{
+     min-height: 80vh;
+}
+
