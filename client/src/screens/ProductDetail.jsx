@@ -13,7 +13,7 @@ const ProductDetail = () => {
               setProduct(data);
         }
         fetchProduct();
-    },[])
+    },[id])
     
   return (
     <>
