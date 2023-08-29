@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ecommerce",
+  "version": "1.0.0",
+  "description": "Welcome to the repository for our dynamic e-commerce project, powered by Node.js and React. This repository serves as the foundation for our modern online shopping platform.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon backend/server.js"
+  },
+  "keywords": [],
+  "author": "Mark Onuoha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
